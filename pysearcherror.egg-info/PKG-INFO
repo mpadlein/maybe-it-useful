@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pysearcherror
+Version: 0.0.1
+Summary: A package to search error in python code
+Home-page: https://github.com/mpadlein/maybe-it-useful
+Author: MPADlein, plantcraft94
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE

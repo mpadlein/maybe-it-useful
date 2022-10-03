@@ -1,0 +1,11 @@
+LICENCE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+lazy_google_error/__init__.py
+lazy_google_error/lazy_google_error.py
+pysearcherror.egg-info/PKG-INFO
+pysearcherror.egg-info/SOURCES.txt
+pysearcherror.egg-info/dependency_links.txt
+pysearcherror.egg-info/top_level.txt
