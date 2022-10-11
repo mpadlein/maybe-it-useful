@@ -107,7 +107,10 @@ class ConsoleVideoPlayer:
 
 
 if __name__ == '__main__':
-    """ pip install pydub opencv-python """
+    """ 
+    pip install pydub opencv-python 
+    download ffmpeg and set env path: http://www.ffmpeg.org/download.html
+    """
 
     VIDEO_FILE = 'rr.mp4'
     console_video_player = ConsoleVideoPlayer(VIDEO_FILE)
